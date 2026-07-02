@@ -1,0 +1,27 @@
+git init -> to initialize the repo
+
+git add .
+
+git commit -m 'add html and css file'
+
+git log -> to check the logs
+
+git checkout [put here the commit hashcode]
+
+git remote add origin https...
+
+git push -u origin main
+
+git checkout -b newBranch
+
+git merge
+
+
+git pull origin master
+
+
+https://github.com/lecaluizsoccer?tab=repositories
+
+
+
+
